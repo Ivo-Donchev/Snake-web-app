@@ -1,0 +1,14 @@
+.cell {
+  width: 3.125%;
+  height: 3.125%;
+  background-color: #777;
+  float: left;
+}
+
+.snake-on {
+  background-color: green;
+}
+
+.apple-on {
+  background-color: red;
+}

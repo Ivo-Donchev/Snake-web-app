@@ -1,0 +1,9 @@
+.welcome > * {
+  text-align: center;
+}
+.welcome > .start-game-button {
+  color: white;
+}
+.welcome > .increment-score-button {
+  color: white;
+}
