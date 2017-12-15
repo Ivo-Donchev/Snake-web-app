@@ -23,8 +23,6 @@ class Welcome extends React.Component {
           className="increment-score-button"
           onClick={this.props.incrementScore}
         >Increment Score</div>
-
-
       </div>
     );
   }

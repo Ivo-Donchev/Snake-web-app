@@ -8,7 +8,7 @@ import {Provider} from 'react-redux';
 import {createStore} from 'redux';
 
 import AppReducer from './reducers'
-import {editName, incrementScore} from './actions'
+import {editName, incrementScore, moveLeft} from './actions'
 
 let store = createStore(AppReducer)
 
